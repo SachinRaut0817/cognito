@@ -1,0 +1,11 @@
+{
+  "name": "apply-default-user-group",
+  "version": "1.0.0",
+  "description": "AWS Lambda function for Cognito triggers to automatically assign user group",
+  "main": "index.js",
+  "author": "Javapocalypse",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1023.0"
+  }
+}
